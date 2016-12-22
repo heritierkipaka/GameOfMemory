@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Game Of Memory!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="action_second_activity">SecondActivity</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_youtube">YouTube</string>
+    <string name="action_google_plus">Google Plus</string>
+    <string name="action_linkedin">LinkedIn</string>
+    <string name="action_whatsapp">WhatsApp</string>
+
+
+    <string name="save">save</string>
+    <string name="a_propos">A propos</string>
+    <string name="parametres">Parametres</string>
+
+
+    <string name="high_scores">Scores</string>
+    <string name="http_heritier_kipaka_free_fr">http://heritier.kipaka.free.fr</string>
+    <string name="start">Start</string>
+
+
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+
+</resources>

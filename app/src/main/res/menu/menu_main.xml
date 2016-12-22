@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/action_second_activity"
+        android:orderInCategory="100"
+        android:title="@string/parametres"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_save"
+        android:orderInCategory="100"
+        android:title="@string/save"
+        app:showAsAction="always"/>
+
+  <!--  <item
+        android:id="@+id/a_propos"
+        android:orderInCategory="100"
+        android:title="@string/a_propos"
+        app:showAsAction="never"/> -->
+</menu>
